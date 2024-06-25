@@ -3,7 +3,7 @@ body{
 }
 
 h2{
-    color:cadetblue
+    color:brown
 }
 
 section {
@@ -15,11 +15,11 @@ section {
 #acerca-de-mi{ /* Si llamamos sin etiqueta,cabia lo que queremos que cambie toda la seccion */
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 50px ;
-    border: 30px solid #3d2929;
+    border: px solid #3d2929;
     color:aquamarine;
 }
 
 #acerca-de-mi h2{ /*llamamos al nombre de la seccion(id) y a la etiqueta que queremos cambiar tanto de color,nombre,fondo etc.*/
 color: brown;
-border:2px solid Tomato;
+
 }
